@@ -1,5 +1,5 @@
-##### Name: (Write your name here)
-##### Date: (Write the date here)
+##### Name: Timothy Gonzales
+##### Date: 9/28/20
 
 ### CODING CHALLENGE #2: REPORT
 
